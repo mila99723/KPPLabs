@@ -1,3 +1,5 @@
+//to use this variant need to change type of MyPow and MyMaxConsec from "class" to "object"
+
 //import mypow.MyPow
 //import mymaxconsec.MyMaxConsec
 //import org.scalatest.{FlatSpec, Matchers}
